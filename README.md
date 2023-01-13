@@ -3,6 +3,9 @@
 ## 👋 HI. I'm Seungwoo
 </div>
 
+<div align='right'>
+ From Jeju
+</div>
 
  
   
