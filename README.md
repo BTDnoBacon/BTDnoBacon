@@ -27,7 +27,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <div>
-  <img src="https://github-readme-stats-e9ef0oy8z-btdnobacon.vercel.app/api/top-langs/?username=BTDnoBacon&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-e9ef0oy8z-btdnobacon.vercel.app/api/top-langs/?username=BTDnoBacon&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
 </div>
 
 
