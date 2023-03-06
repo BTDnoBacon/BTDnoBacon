@@ -7,6 +7,7 @@
  From Jeju
 </div>
 
+로그아웃을 생활화하자!
  
   
 #### 🌱 I’m currently learning ...
