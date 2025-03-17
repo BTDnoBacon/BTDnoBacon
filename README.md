@@ -20,6 +20,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<!--
 ---
 ### 🔭Projects
 
@@ -58,6 +59,7 @@
 - 기술스택 : HTML, CSS, JavaScript, Python, Django
 - 깃허브 : https://github.com/jejucoding2022/hackathon
 
+-->
 
 #### 📫 How to reach me: ...
 
